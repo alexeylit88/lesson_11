@@ -227,7 +227,7 @@ body {
 }
 .who-are-you__image {
 	position: absolute;
-	top: 260px;
+	bottom: -160px;
 	left: -10px;
 }
 .who-are-you__dog {
