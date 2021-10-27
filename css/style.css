@@ -54,6 +54,8 @@ body {
 	color: #fff;
 	position: fixed;
 	z-index: 5;
+	width: 100%;
+	text-align: center;
 }
 ._container {
 	max-width: 1440px;
